@@ -1,0 +1,6 @@
+{
+  "name": "Povijesni Analitičar Domovinskog rata",
+  "description": "Aplikacija za analizu povijesnih tekstova o Domovinskom ratu koristeći Gemini AI za identifikaciju aktera i vizualizaciju njihovih odnosa putem interaktivnog grafa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
